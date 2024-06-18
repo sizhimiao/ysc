@@ -1,5 +1,9 @@
 {
-  
+  "lives": [
+    {"name":"live","type":0,"playerType":1,"url":"https://ghproxy.net/https://raw.githubusercontent.com/sizhimiao/ysc/main/18_adult.txt",},
+    
+  ],
+
 
   "sites":[
     {"key":"","name":"💕防失联关注公众号[四只喵软件]","type":3,"api":"","searchable":0},
