@@ -2,7 +2,8 @@
   
 
   "sites":[
-    {"key":"","name":"💕公众号[四只喵软件]💕"，"type":3,"api":"","searchable":0"},
+    {"key":"","name":"💕防失联关注公众号[四只喵软件]","type":3,"api":"","searchable":0},
+
     {"key":"bttcj.com","name":"🍒喵喵01","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"filterable":1},
     {"key":"wmcj8.com","name":"🍒喵喵02","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":1,"filterable":1},
     {"key":"dadiapi.com","name":"🍒喵喵03","type":0,"api":"https://dadiapi.com/api.php","searchable":1,"filterable":1},
