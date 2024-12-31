@@ -19,9 +19,9 @@
     {"key":"msnii.com","name":"🍒喵喵04","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"filterable":1},
     {"key":"gdlsp.com","name":"🍒喵喵05","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"filterable":1},
     {"key":"kxgav.com","name":"🍒喵喵06","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"filterable":1},
-    {"key":"lbapi9.com","name":"🍒喵喵7","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":1,"filterable":1},
-    {"key":"api.apilyzy.com","name":"🍒喵喵8","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"filterable":1},
-    {"key":"api.sexnguon.com","name":"🍒喵喵9","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":1,"filterable":0},
+    {"key":"lbapi9.com","name":"🍒喵喵07","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":1,"filterable":1},
+    {"key":"api.apilyzy.com","name":"🍒喵喵08","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"filterable":1},
+    {"key":"api.sexnguon.com","name":"🍒喵喵09","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":1,"filterable":0},
     {"key":"lbapiby.com","name":"🍒喵喵10","type":0,"api":"http://lbapiby.com/api.php/provide/vod/at/xml","searchable":1,"filterable":0},
 
     
